@@ -17,7 +17,7 @@
 <br />
 <br />
 
-#### More about me:
+#### About me:
 
 -  :woman: :eyeglasses: :computer: :bar_chart: I’m a Data Science student at [ESPRIT](https://esprit.tn/) working towards a computer science engineering degree.
 - :eyes: I’m currently looking for an end of studies internship in the field of Data Science and Machine Learning.
