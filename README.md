@@ -24,7 +24,7 @@
 - 🤔 I'm interested in Artificial Intelligence, Computer Vision and Natural Language Processing.
 - 💼 My goal is to apply my knowledge of Data Science and Artificial Intelligence in doing research  :mag: in the medical   :hospital::mask: and/or the pharmaceutical :pill: :syringe: field.
 - :e-mail: Please email via salma.achour@esprit.tn to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/1I5PSn-CWbi6pBPbmxU_r4xkxJMgD-Zfj/view?usp=sharing) to get more info.
+- 📝 See my [Resume](https://drive.google.com/file/d/1LQwKuAOvdV-mqyE7U5Dw5IxrZ0lpcPYO/view?usp=sharing) to get more info.
 
 
 #### Languages and Tools:
