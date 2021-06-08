@@ -1,18 +1,16 @@
 ### Hey there 👋, I'm Salma
 
 <a href="https://www.linkedin.com/in/salma-achour/">
-  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkdeIn" width="22px" src="icons/iconfinder_5296501_linkedin_network_linkedin logo_icon_256px.png" />
 </a>
 
 <a href="https://www.kaggle.com/salmaachour">
-  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+  <img align="left" alt="Kaggle" width="22px" src="icons/iconfinder_4373210_kaggle_logo_logos_icon_256px.png" />
 </a>
 <a href="https://github.com/salma-achour">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+  <img align="left" alt="Github" width="22px" src="icons/iconfinder_4747499_github_icon (1).svg" />
 </a>
-<a href="https://www.instagram.com/salmachour97/?hl=en">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 
 <br />
 <br />
