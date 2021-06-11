@@ -36,7 +36,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2513](https://github.com/matterport/Mask_RCNN/issues/2513) in [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
+1. ❗️ Opened issue [#656](https://github.com/dbolya/yolact/issues/656) in [dbolya/yolact](https://github.com/dbolya/yolact)
 <!--END_SECTION:activity-->
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=salma-achour&show_icons=true&hide_border=true)
