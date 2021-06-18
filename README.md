@@ -44,5 +44,5 @@
 
 #### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#656](https://github.com/dbolya/yolact/issues/656) in [dbolya/yolact](https://github.com/dbolya/yolact)
+1. 🗣 Commented on [#2604](https://github.com/matterport/Mask_RCNN/issues/2604) in [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
 <!--END_SECTION:activity-->
