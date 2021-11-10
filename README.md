@@ -21,7 +21,7 @@
 - :eyes: I’m currently looking for a new position in the field of Data Science and Machine Learning.
 - 🤔 I'm interested in Artificial Intelligence, Computer Vision and Natural Language Processing.
 - 💼 My goal is to apply my knowledge of Data Science and Artificial Intelligence in doing research  :mag: in the medical   :hospital::mask: and/or the pharmaceutical :pill: :syringe: field.
-- :e-mail: Please email via ssalmachour.sa@gmail.com to reach me.
+- :e-mail: Please email via salmachour.sa@gmail.com to reach me.
 - 📝 See my [Resume](https://drive.google.com/file/d/1glC7aNaVn6GiKVRydlBjR0m9y-xBSoLs/view?usp=sharing) to get more info.
 
 
