@@ -32,7 +32,7 @@ I love learning about Software Development, Data Science and MlOps.
   <img src = "https://github-readme-stats.vercel.app/api?username=salma-achour&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=salma-achour&theme=highcontrast&hide_border=true" width = 400>
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-achour&hide=html,cmake,css,scss,powershell,assembly,procfile,jupyter%20notebook&theme=highcontrast&langs_count=11&layout=compact&hide_border=true" width = 400>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=salma-achour&hide_border=true&theme=highcontrast&langs_count=9" width = 420 >
+  
 </p>
 
  <img src="https://activity-graph.herokuapp.com/graph?username=salma-achour&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
