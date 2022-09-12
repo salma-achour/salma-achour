@@ -20,7 +20,6 @@ I love learning about Software Development, Data Science and MlOps.
    <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/kubernetes%20-%2314354C.svg?&style=for-the-badge&logo=kubernetes&logoColor=blue"></a>
    <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/jenkins%20-%2314354C.svg?&style=for-the-badge&logo=jenkins&logoColor=red"></a>
    <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/linux%20-%2314354C.svg?&style=for-the-badge&logo=linux&logoColor=orange"></a>
- <a href="https://sql.org/"><img src="https://img.shields.io/badge/sql%20-%23121011.svg?&style=for-the-badge&logo=sql&logoColor=white"/></a>
  <a href="https://www.snowflake.com/"><img src="https://img.shields.io/badge/snowflake%20-%2314354C.svg?&style=for-the-badge&logo=snowflake&logoColor=lightblue"></a>
   <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/mongodb%20-%2314354C.svg?&style=for-the-badge&logo=mongodb&logoColor=green"></a>
 <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/r%20-%2314354C.svg?&style=for-the-badge&logo=r&logoColor=blue"/></a>
