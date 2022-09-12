@@ -12,6 +12,7 @@ I love learning about Software Development, Data Science and MlOps.
 ## ⚡ Technologies
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
 <a href="https://www.anaconda.com"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+ <a href="https://sql.org/"><img src="https://img.shields.io/badge/sql%20-%23121011.svg?&style=for-the-badge&logo=sql&logoColor=white"/></a>
 <a href="https://www.r-project.org"><img src="https://img.shields.io/badge/r%20-%231572B6.svg?&style=for-the-badge&logo=r&logoColor=white"/></a>
 <a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://git-scm.com"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
