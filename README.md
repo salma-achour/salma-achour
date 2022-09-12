@@ -1,48 +1,48 @@
-### Hey there 👋, I'm Salma
 
-<a href="https://www.linkedin.com/in/salma-achour/">
-  <img align="left" alt="LinkdeIn" width="22px" src="icons/iconfinder_5296501_linkedin_network_linkedin logo_icon_256px.png" />
-</a>
+<h1 align="center">
+Hello There!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h1>
 
-<a href="https://www.kaggle.com/salmaachour">
-  <img align="left" alt="Kaggle" width="22px" src="icons/iconfinder_4373210_kaggle_logo_logos_icon_256px.png" />
-</a>
-<a href="https://github.com/salma-achour">
-  <img align="left" alt="Github" width="22px" src="icons/iconfinder_4747499_github_icon (1).svg" />
-</a>
-
-
-<br />
-<br />
-
-#### About me:
-
--  :woman: :eyeglasses: :computer: :bar_chart: I’m a  computer science engineer specializing in Data Science and AI.
-- :eyes: I’m currently looking for a new position in the field of Data Science and Machine Learning.
-- 🤔 I'm interested in Artificial Intelligence, Computer Vision and Natural Language Processing.
-- 💼 My goal is to apply my knowledge of Data Science and Artificial Intelligence in doing research  :mag: in the medical   :hospital::mask: and/or the pharmaceutical :pill: :syringe: field.
-- :e-mail: Please email via salmachour.sa@gmail.com to reach me.
-- 📝 See my [Resume](https://drive.google.com/file/d/1glC7aNaVn6GiKVRydlBjR0m9y-xBSoLs/view?usp=sharing) to get more info.
-
-
-#### Languages and Tools:
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+I'm Salma, a computer science engineer at the start of my career as a Data Scientist pursuing a master's degree in Iot and AI. 
+I love learning about Software Development, Data Science and MlOps.
+ 
+<p align = "center">
+  
+## ⚡ Technologies
+ <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2C2D72?&style=for-the-badge&logo=kotlin&logoColor=lightpurple" /> </a>
+<a href="https://www.android.com"><img src="https://img.shields.io/badge/Android-02303A.svg?style=for-the-badge&logo=android&logoColor=dark"></a>
+ <a href="https://spring.io" target="_blank"><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></a>
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=ffdd54"/></a>
+<a href="https://www.anaconda.com"><img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"></a>
+<a href="https://www.r-project.org"><img src="https://img.shields.io/badge/r%20-%231572B6.svg?&style=for-the-badge&logo=r&logoColor=white"/></a>
+<a href="https://powerbi.microsoft.com/en-au/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/></a>
+<a href="https://www.postman.com"><img src="https://img.shields.io/badge/postman%20-%23F05033.svg?&style=for-the-badge&logo=postman&logoColor=white"/></a>
+<a href="https://github.com"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://git-scm.com"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></a>
+ <a href="https://www.javascript.com"><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://www.sqlite.org/index.html"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"></a>
+  </p>
 
 
+## 🔎 Github Stats
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=salma-achour&show_icons=true&theme=highcontrast&count_private=true&hide_border=true" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=salma-achour&theme=highcontrast&hide_border=true" width = 400>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=salma-achour&hide=html,cmake,css,scss,powershell,assembly,procfile,jupyter%20notebook&theme=highcontrast&langs_count=11&layout=compact&hide_border=true" width = 400>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=salma-achour&hide_border=true&theme=highcontrast&langs_count=9" width = 420 >
+</p>
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=salma-achour&show_icons=true&hide_border=true)
+ <img src="https://activity-graph.herokuapp.com/graph?username=salma-achour&theme=gotham&area=true&hide_border=true&custom_title=My%20Contribution%20Graph" width="100%"/>
 
 
 
-#### Recent Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2604](https://github.com/matterport/Mask_RCNN/issues/2604) in [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN)
-<!--END_SECTION:activity-->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=salma-achour&label=Profile%20views&color=0e75b6&style=for-the-badge&color=000000" alt="salma-achour' profile views" />
+</p>
+
+
+  
+
